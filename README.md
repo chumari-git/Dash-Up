@@ -1,5 +1,7 @@
 
 # Responsive Dashboard with Dash
+## Project info:
+![screenshot](src/Screenshot_18-1-2025_204947_www.upwork.com.jpeg)
 
 ## Requirements
 - Python 3.8+
